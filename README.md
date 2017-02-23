@@ -1,4 +1,4 @@
-# react-native-companies
+# React Native Companies
 A curated list of companies using Elixir in production.
 
 - [Facebook](https://fb.com)
